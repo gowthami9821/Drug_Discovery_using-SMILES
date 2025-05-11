@@ -1,4 +1,4 @@
-##🧪 Drug Molecule Generator with Diffusion Model
+## Drug Molecule Generator with Diffusion Model
 This project presents a web-based platform that integrates a diffusion model trained on SMILES data to generate novel drug-like molecules. It also features an interactive molecular editor, allowing users to visualize and modify generated molecules seamlessly.
 
 🚀 Features

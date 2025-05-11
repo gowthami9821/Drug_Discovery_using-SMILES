@@ -1,4 +1,21 @@
+#🧪 Drug Molecule Generator with Diffusion Model
+This project presents a web-based platform that integrates a diffusion model trained on SMILES data to generate novel drug-like molecules. It also features an interactive molecular editor, allowing users to visualize and modify generated molecules seamlessly.
 
+🚀 Features
+SMILES-Based Diffusion Model: Generates novel molecular structures by learning from a dataset of SMILES representations.
+
+Molecular Editor Integration: Allows users to edit and visualize molecules in real-time.
+
+Interactive Visualization: Provides a user-friendly interface to explore and manipulate molecular structures.
+
+🧰 Technologies Used
+Diffusion Models: Implemented using PyTorch to learn and generate molecular structures from SMILES data.
+
+Molecular Editor: Integrated using Marvin JS for interactive molecule editing.
+
+Frontend: Built with React.js for a responsive and dynamic user interface.
+
+Backend: Utilizes Flask to handle API requests and model inference.
 
 **Use your preferred IDE**
 
@@ -45,10 +62,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
